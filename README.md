@@ -42,3 +42,5 @@ One approach to accomplish this task would be to use the modulus, or `%`, operat
 * [Tutorials Point](http://www.tutorialspoint.com/) - [Ruby Operators](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
 
 <a href='https://learn.co/lessons/format-minutes-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<a href='https://learn.co/lessons/format-minutes-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
